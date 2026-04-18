@@ -1,2 +1,2 @@
 # Espeedy
-Open Source Flight Controller With PWM Motor Support And WIFI App Control
+Open Source Flight Controller Based On ESP32 With PWM Motor Support And WIFI App Control
