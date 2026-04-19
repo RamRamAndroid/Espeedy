@@ -1,6 +1,8 @@
 # Espeedy
 Open Source Flight Controller Based On ESP32 With PWM Motor Support And WIFI App Control
 
+# Intro
+Espeedy is an open source solution based on Espressif ESP32 Wi-Fi chip, which is be controlled by a mobile APP over Wi-Fi connection. Espeedy comes with simple hardware, clear and extensible code architecture, and therefore this project can be used in STEAM education and other fields. The main code is ported from Circuit Digest's ESP Drone open source project 
 
 <img width="750" height="349" alt="app-interface_0" src="https://github.com/user-attachments/assets/80a1448b-0ab7-4293-8219-e38c6a45af65" />
 
