@@ -9,3 +9,6 @@ Espeedy is an open source solution based on Espressif ESP32 Wi-Fi chip, which is
 
 # PCB
 <img width="300" height="300" alt="sm_black_top" src="https://github.com/user-attachments/assets/24d208af-980b-49a8-a0e6-1f6a9eb97a10" />   <img width="300" height="300" alt="sm_black_bottom" src="https://github.com/user-attachments/assets/f3f76db0-7682-46f9-acaa-6ec3fa2e6768" />
+
+# More Instructions
+As Espeedy is based on circuit digest's ESP Drone Project, All Of The Instructions Are The Same As Theirs, So For More Info Go To There Website
